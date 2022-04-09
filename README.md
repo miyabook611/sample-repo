@@ -1,2 +1,2 @@
 # sample-repo
-Git practice
+本当にちゃんと更新できてますか？
